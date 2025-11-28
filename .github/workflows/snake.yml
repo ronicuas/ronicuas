@@ -2,21 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # 1 vez al día
-  workflow_dispatch:          # para poder ejecutarlo a mano
+    - cron: "0 0 * * *"    # se ejecuta todos los días a las 00:00 UTC
+  workflow_dispatch:        # para poder ejecutarlo a mano
+
+# 🔑 Permisos necesarios para poder crear/actualizar la rama `output`
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake SVG
+      - name: Generar SVG de la serpiente
         uses: Platane/snk@v3
         with:
           github_user_name: ronicuas
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
+      - name: Publicar en rama output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
