@@ -30,7 +30,7 @@ Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfoca
 - :telescope: Actualmente trabajo en proyectos de backend y aprendiendo a integrar **Three.js** para efectos 3D en mis aplicaciones.
 - :seedling: Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
 - 💬 Pregúntame sobre **PHP**, **Laravel**, **MySQL**, **Docker** y buenas prácticas de desarrollo.
-- 📫 Puedes contactarme en: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- 📫 Puedes contactarme en: [ronisaavedra777@gmail.com](mailto:tuemail@ejemplo.com)
 
 ---
 
@@ -53,7 +53,6 @@ Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfoca
 ### 🚀 Proyectos destacados
 - **Punto de venta Plantitas** – Sistema para gestionar ventas, inventario y reportes en una tienda de plantas.
 - **Inventario Trememn** – Aplicación para llevar el control de inventario con panel moderno y gráficos.
-- **E‑commerce ScInformatica** – Tienda en línea con autenticación, carrito de compras y panel de administración.
 
 ---
 
@@ -69,8 +68,6 @@ Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfoca
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronicuas&layout=compact&theme=dark&langs_count=6" width="600"/>
 </div>
-### 🐍 Mi serpiente de contribuciones
 
-![Contribución serpiente](https://raw.githubusercontent.com/ronicuas/ronicuas/output/github-contribution-grid-snake.svg)
 
 
