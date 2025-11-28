@@ -68,6 +68,7 @@ Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfoca
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronicuas&layout=compact&theme=dark&langs_count=6" width="600"/>
 </div>
+![Contribución serpiente](https://raw.githubusercontent.com/ronicuas/ronicuas/output/github-contribution-grid-snake.svg)
 
 
 
