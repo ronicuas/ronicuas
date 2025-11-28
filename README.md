@@ -73,3 +73,4 @@ Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfoca
 
 ![Contribución serpiente](https://raw.githubusercontent.com/ronicuas/ronicuas/output/github-contribution-grid-snake.svg)
 
+
