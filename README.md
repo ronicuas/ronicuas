@@ -27,9 +27,9 @@
 ### :man_technologist: Sobre mí
 Soy estudiante de **Ingeniería en Informática** y desarrollador backend enfocado en **PHP** y **Laravel**. Me gusta crear soluciones limpias, bien estructuradas y centradas en el usuario.
 
-- :telescope: Actualmente trabajo en proyectos de backend y aprendiendo a integrar **Three.js** para efectos 3D en mis aplicaciones.
+- :telescope: Actualmente trabajo en proyectos de backend.
 - :seedling: Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
-- 💬 Pregúntame sobre **PHP**, **Laravel**, **MySQL**, **Docker** y buenas prácticas de desarrollo.
+- 💬 Pregúntame sobre  **MySQL**, **Docker** y buenas prácticas de desarrollo.
 - 📫 Puedes contactarme en: [ronisaavedra777@gmail.com](mailto:tuemail@ejemplo.com)
 
 ---
